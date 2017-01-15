@@ -1,0 +1,42 @@
+TODO:
+
+1.  Implement damages (manageGameState)[x]
+
+2.  Win condition (feedback if you win or lose?)[x]
+
+3.  User display while game is running (units reaminning, level number, enemyHealth) []
+
+4.  Implement slow (add to manageMapState)[x]
+
+5.  Put tower initializations and unit initializations in their own functions.[]
+
+6.  NERF tower ranges.[x]
+
+7.  Anitmations? (maybe a flashing tower after each shot?)[]
+
+8.  Add enumeration for unit path indexes (-3 is dead (T_T) ,-2 is end of path, -1 is begining)[]
+
+9.  Add a timer (usleep())[x]
+
+10. READING TEXT FILES SHOULD NOT BE UP TO USER. HARDCODE THEM.[x]
+
+11. Make more levels.[x](test)
+
+12. Tower prioritization.[]
+
+13. Add something fun ;)[]
+
+14. FREE MEMORY!!! (tower unit pair)[x]
+
+15. FIX USER INTERFACE [x](NEEDS TESTING)
+
+16. BALANCE[]
+
+17. NAME THE GAME []
+
+18. LEVEL END: WIN/LOSE SCREEN []
+
+19. COMMENTS []
+
+20. INCLUDE GUARDS[]
+
